@@ -1,0 +1,43 @@
+Class Account {
+
+accountNumber;
+HolderName;
+balance;	
+
+
+deposit()
+withraw()
+display()
+
+}
+
+1.SavingAccount
+	InteresetRate
+
+	CalculateInterest()	
+
+
+
+2.CurrentAccount
+	OverDraftLimit
+
+	canWthdraw();
+
+
+Main
+
+Account arr[] = {Saving,Current,Saving,Current};
+
+1.To find Total balance
+2.Maximum balance
+3.Min balance
+4.Total saving
+5.Total current 
+
+
+
+Edge cases
+
+withdraw more then your balance
+negative deposit (nhi anni chahiye)
+interestRate negative (nbi anni chahiye)

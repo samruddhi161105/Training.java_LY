@@ -9,7 +9,7 @@ public class HDFC {
         System.out.println("default constructor called");
         name = "User";// Initialise
         AccNo = 11111;
-        balance = 00.00;
+        balance = 00;
     }
 
     HDFC(String UserName, int UserAccNo, double UserBalance) {// parameter
